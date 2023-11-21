@@ -1,2 +1,2 @@
 # AzureDevopsTraining
-Sample Text change
+Sample Text change for release pipelines
